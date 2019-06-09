@@ -1,0 +1,2 @@
+# SpringItegrationIdempotent
+Idempotent consumer
